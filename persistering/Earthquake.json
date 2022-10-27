@@ -1,0 +1,202 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "mag": 1.14,
+            "place": "2km NNW of The Geysers, CA",
+            "time": 1666682122760,
+            "updated": 1666682219371,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73798966",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73798966.geojson",
+            "felt": null,
+            "cdi": null,
+            "mmi": null,
+            "alert": null,
+            "status": "automatic",
+            "tsunami": 0,
+            "sig": 20,
+            "net": "nc",
+            "code": "73798966",
+            "ids": ",nc73798966,",
+            "sources": ",nc,",
+            "types": ",nearby-cities,origin,phase-data,",
+            "nst": 18,
+            "dmin": 0.006439,
+            "rms": 0.04,
+            "gap": 73,
+            "magType": "md",
+            "type": "earthquake",
+            "title": "M 1.1 - 2km NNW of The Geysers, CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.7633362,
+                38.7948341,
+                0.64
+            ]
+        },
+        "id": "nc73798966"
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "mag": 1.3,
+            "place": "28 km NNE of Beluga, Alaska",
+            "time": 1666681529215,
+            "updated": 1666681655961,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak022doycl89",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak022doycl89.geojson",
+            "felt": null,
+            "cdi": null,
+            "mmi": null,
+            "alert": null,
+            "status": "automatic",
+            "tsunami": 0,
+            "sig": 26,
+            "net": "ak",
+            "code": "022doycl89",
+            "ids": ",ak022doycl89,",
+            "sources": ",ak,",
+            "types": ",origin,phase-data,",
+            "nst": null,
+            "dmin": null,
+            "rms": 0.36,
+            "gap": null,
+            "magType": "ml",
+            "type": "earthquake",
+            "title": "M 1.3 - 28 km NNE of Beluga, Alaska"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -150.9604,
+                61.3907,
+                62.6
+            ]
+        },
+        "id": "ak022doycl89"
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "mag": 2.3,
+            "place": "Wyoming",
+            "time": 1666680566986,
+            "updated": 1666682105040,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000iw9x",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000iw9x.geojson",
+            "felt": null,
+            "cdi": null,
+            "mmi": null,
+            "alert": null,
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 81,
+            "net": "us",
+            "code": "6000iw9x",
+            "ids": ",us6000iw9x,",
+            "sources": ",us,",
+            "types": ",origin,phase-data,",
+            "nst": 30,
+            "dmin": 0.205,
+            "rms": 0.61,
+            "gap": 86,
+            "magType": "ml",
+            "type": "earthquake",
+            "title": "M 2.3 - Wyoming"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -110.8804,
+                43.2772,
+                8.904
+            ]
+        },
+        "id": "us6000iw9x"
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "mag": 0.88,
+            "place": "11km S of Joshua Tree, CA",
+            "time": 1666680368900,
+            "updated": 1666680579255,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40365464",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40365464.geojson",
+            "felt": null,
+            "cdi": null,
+            "mmi": null,
+            "alert": null,
+            "status": "automatic",
+            "tsunami": 0,
+            "sig": 12,
+            "net": "ci",
+            "code": "40365464",
+            "ids": ",ci40365464,",
+            "sources": ",ci,",
+            "types": ",nearby-cities,origin,phase-data,scitech-link,",
+            "nst": 15,
+            "dmin": 0.06445,
+            "rms": 0.16,
+            "gap": 80,
+            "magType": "ml",
+            "type": "earthquake",
+            "title": "M 0.9 - 11km S of Joshua Tree, CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -116.3211667,
+                34.0393333,
+                9.58
+            ]
+        },
+        "id": "ci40365464"
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "mag": 1.6,
+            "place": "6 km E of Tatitlek, Alaska",
+            "time": 1666679040952,
+            "updated": 1666679160920,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak022doxv61r",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak022doxv61r.geojson",
+            "felt": null,
+            "cdi": null,
+            "mmi": null,
+            "alert": null,
+            "status": "automatic",
+            "tsunami": 0,
+            "sig": 39,
+            "net": "ak",
+            "code": "022doxv61r",
+            "ids": ",ak022doxv61r,",
+            "sources": ",ak,",
+            "types": ",origin,phase-data,",
+            "nst": null,
+            "dmin": null,
+            "rms": 0.58,
+            "gap": null,
+            "magType": "ml",
+            "type": "earthquake",
+            "title": "M 1.6 - 6 km E of Tatitlek, Alaska"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -146.5621,
+                60.8613,
+                14.8
+            ]
+        },
+        "id": "ak022doxv61r"
+    }
+]
